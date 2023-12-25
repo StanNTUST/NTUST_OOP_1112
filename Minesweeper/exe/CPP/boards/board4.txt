@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+5 7
+OOXOOOO
+XOOOOOO
+OXOOOOX
+OXOOOOO
+=======
+5 7
+OOXOOOO
+XOOOOOO
+OXOOOOX
+OXOOOOO
+>>>>>>> ae5321d (Minesweeper)
+OOXXOXO

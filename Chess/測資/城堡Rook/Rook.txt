@@ -1,0 +1,42 @@
+新的一局(白方先動)
+d2 d3
+a7 a5 
+c1 h6
+a8 a6
+b1 d2 
+a6 h6 (吃主教)
+d2 b3
+故意測亂走
+h6 h7 (Invalid)
+h6 h1 (Invalid)
+h6 c1 (Invalid)
+故意測亂走結束
+
+合法走 (分支1 如果你想趕快結束)
+h6 e6
+b3 a5
+e6 e2
+結束
+
+合法走(分支2 如果你很閒)
+e7 e6
+d1 d2
+d8 f6 
+d2 a5 (皇后吃士兵)
+h6 h5
+a5 a6
+h5 e5 
+a6 a5
+e5 e2 (Check)
+e1 d1
+f6 e5 
+a5 a8
+e2 e1 (check)
+g8 f6
+g2 g3
+f6 g4
+f1 h3
+g4 h2
+g1 f3
+h2 f3 (checkmate)
+結束

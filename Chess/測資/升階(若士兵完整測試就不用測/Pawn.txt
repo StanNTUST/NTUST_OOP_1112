@@ -1,0 +1,37 @@
+新的一局(白方先動)
+a2 a4
+a7 a5
+g2 g4
+h7 h5
+g4 h5 (白士兵吃黑士兵)
+g7 g5 (可以讓白士兵En passant)
+
+分支1: 若選擇En passant (就不用測En passant測資)
+h5 g6
+f7 f6
+g6 g7
+故意測亂走
+f6 f4 (Invalid)
+f6 g5 (Invalid)
+f6 f7 (Invalid)
+故意測亂走結束
+f6 f5 (Valid)
+g7 h8 (升階 升甚麼都可 測試是否有套用正確 例如我升成皇后)
+f5 f4
+h8 c3 (升級成皇后後可斜走到底)
+結束
+
+分支2: 若不En passant
+h5 h6
+f7 f6
+h6 h7
+故意測亂走
+f6 f4 (Invalid)
+f6 g5 (Invalid)
+f6 f7 (Invalid)
+故意測亂走結束
+f6 f5 (Valid)
+h7 g8 (升階 升甚麼都可 測試是否有套用正確 例如我升成皇后)
+f5 f4
+g8 a2 (升級成皇后後可斜走到底)
+結束

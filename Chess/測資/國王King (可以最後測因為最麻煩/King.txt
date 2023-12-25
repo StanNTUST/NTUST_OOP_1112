@@ -1,0 +1,29 @@
+新的一局(白方先動)
+e2 e4
+e7 e6
+e1 e2
+e8 e7
+e2 f3
+e7 f6
+e3 e4
+故意測亂走
+f6 f5 (Invalid)
+f6 g5 (Invalid)
+f6 h6 (Invalid)
+f6 g7 (Invalid)
+故意測亂走結束
+f6 g6 (Valid)
+d1 g4 (Check)
+d8 g5 
+
+分支1: 若要讓遊戲結束
+g4 g5 (Checkmate)
+結束
+
+分支2: 若不讓遊戲結束
+可測試亂走
+g5 f5 (Invalid 因為故意讓國王被Check) 
+g6 f5 (Invalid 故意送死)
+g5 h4 (Invalid 因為故意讓國王被Check) 
+
+結束

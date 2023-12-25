@@ -1,0 +1,20 @@
+新的一局(白方先動)
+e2 e3
+f7 f6
+b1 c3
+g7 g5
+
+分支1: 若Checkmate
+d1 h5 (Checkmate)
+結束
+
+分支2: 若不Checkmate
+d1 g4
+g8 h6
+接著故意測亂走
+g4 e5 (Invalid)
+g4 c8 (Invalid)
+g4 g8 (Invalid)
+故意測亂走結束
+g4 a4 (Valid)
+結束

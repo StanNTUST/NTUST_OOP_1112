@@ -1,0 +1,11 @@
+Fen: r3k2r/pppppppp/8/8/8/8/PPPPPPPP/R3K2R w KQkq - 0 1
+白方先動
+e1 c1 (長入堡,城堡會在d1)
+e8 g8 (短入堡,城堡會在f8)
+
+重新讀一次，或是Undo到最一開始
+白方先動
+r3k2r/pppppppp/8/8/8/8/PPPPPPPP/R3K2R w KQkq - 0 1
+e1 g1 (短入堡,城堡會在f1)
+e8 c8 (長入堡,城堡會在d8)
+結束

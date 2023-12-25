@@ -1,0 +1,6 @@
+白方先
+e2 e3
+f7 f6
+b1 c3
+g7 g5
+d1 h5 (Checkmate)
